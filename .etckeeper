@@ -3,3 +3,5 @@
 maybe chmod 0775 '.'
 maybe chmod 0700 '.etckeeper'
 maybe chmod 0664 '.gitignore'
+maybe chmod 0700 '.ssh'
+maybe chmod 0600 '.ssh/authorized_keys'
